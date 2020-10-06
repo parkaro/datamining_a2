@@ -12,3 +12,19 @@
 
 * Once you click apply, you can see the changes
   ![image](https://user-images.githubusercontent.com/68670850/95125705-d93a1400-07b1-11eb-9ce9-290f76a32760.png)
+
+
+<h1>Clustering</h1>
+
+**K-Means Clustering**
+* We can do to see some hidden patterns and relations in data
+* First we just ignored a one column (OrderID) and the rest of the columns were used in clustering. The number of clusters was five
+  ![image](https://user-images.githubusercontent.com/68670850/95247428-55942c00-0872-11eb-8f64-2ba5765158b9.png)
+  
+* We ignored some other ID columns and continue with five clusters
+  ![image](https://user-images.githubusercontent.com/68670850/95248514-e15a8800-0873-11eb-9d22-2d94e1bfd5f8.png)
+
+* We ignored couple of more columns and tried different random number of clusters. The best relation we can find can be seen in figure below
+  ![image](https://user-images.githubusercontent.com/68670850/95249979-fd5f2900-0875-11eb-9c03-251489070b42.png)
+  ![image](https://user-images.githubusercontent.com/68670850/95250134-297aaa00-0876-11eb-942c-b81b57b3ccaf.png)
+
