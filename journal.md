@@ -42,3 +42,18 @@
 
 * Findings from this step were, we can see the clusters formed for discounted for Consumers segment are much brighter than the other two which means most of the discount is availed by consumers.
 
+<h1>Association</h1>
+
+**Apriori**
+* For Association, we need to convert each column from Numeric to Nominal <br />
+  ![image](https://user-images.githubusercontent.com/68670850/95427123-8c1d9400-09a3-11eb-948d-c841599551b4.png)
+
+* Couldn't find any association <br />
+  ![image](https://user-images.githubusercontent.com/68670850/95426767-f08c2380-09a2-11eb-93eb-a6cdeed384b8.png)
+ 
+* Further, we also divide the data categorywise but couldn't find anything for all three categories
+  ![image](https://user-images.githubusercontent.com/68670850/95427380-f5050c00-09a3-11eb-8d5c-71cd5db82e5b.png)
+  ![image](https://user-images.githubusercontent.com/68670850/95428005-eb2fd880-09a4-11eb-9929-c8ca3091f6cf.png)
+  ![image](https://user-images.githubusercontent.com/68670850/95428280-4e216f80-09a5-11eb-8761-8e2110db61af.png)
+
+
