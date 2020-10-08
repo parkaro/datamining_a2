@@ -56,4 +56,17 @@
   ![image](https://user-images.githubusercontent.com/68670850/95428005-eb2fd880-09a4-11eb-9929-c8ca3091f6cf.png)
   ![image](https://user-images.githubusercontent.com/68670850/95428280-4e216f80-09a5-11eb-8761-8e2110db61af.png)
 
+<h1>Time Series Analysis</h1>
+
+**Trends**
+<br />
+  ![image](https://user-images.githubusercontent.com/68670850/95517436-7ba9ff80-0a1d-11eb-91f8-b5fedf1ba12a.png)
+ 
+  ![image](https://user-images.githubusercontent.com/68670850/95517363-561cf600-0a1d-11eb-947c-5ac7c15a778e.png)
+  ![image](https://user-images.githubusercontent.com/68670850/95517466-8bc1df00-0a1d-11eb-8166-884165fb3b00.png)
+  ![image](https://user-images.githubusercontent.com/68670850/95517637-e0655a00-0a1d-11eb-8a8b-b88064ba5e4d.png)
+  ![image](https://user-images.githubusercontent.com/68670850/95517756-1c98ba80-0a1e-11eb-9d49-75ca8c326752.png)
+
+
+
 
