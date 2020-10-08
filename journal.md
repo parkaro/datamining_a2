@@ -34,3 +34,11 @@
 
 * From this we can have another column or modified the IsDicount (bool) column to classes with values as discount_with_profit, discount_with_loss and no_discount 
 
+**Filtered Clustering**
+* We repeat the same process of what we follow in K-means Clustering
+
+* We also check see the pattern between segment and Discount
+  ![image](https://user-images.githubusercontent.com/68670850/95405762-29ad9f00-0975-11eb-82ba-958c186788ca.png)
+
+* Findings from this step were, we can see the clusters formed for discounted for Consumers segment are much brighter than the other two which means most of the discount is availed by consumers.
+
