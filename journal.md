@@ -28,3 +28,9 @@
   ![image](https://user-images.githubusercontent.com/68670850/95249979-fd5f2900-0875-11eb-9c03-251489070b42.png)
   ![image](https://user-images.githubusercontent.com/68670850/95250134-297aaa00-0876-11eb-942c-b81b57b3ccaf.png)
 
+* Initially we added a column IsDiscount based on the condition if discount value is 0 or not. But, we find something interesting hidden in the data pattern when we try to see the relation between discount and profit column. We set the number of clusters to three.
+  ![image](https://user-images.githubusercontent.com/68670850/95403078-b48a9b80-096d-11eb-8728-0cdff582a33a.png)
+  ![image](https://user-images.githubusercontent.com/68670850/95403600-2a433700-096f-11eb-882b-ca663d08932f.png)
+
+* From this we can have another column or modified the IsDicount (bool) column to classes with values as discount_with_profit, discount_with_loss and no_discount 
+
