@@ -67,6 +67,9 @@
   ![image](https://user-images.githubusercontent.com/68670850/95517637-e0655a00-0a1d-11eb-8a8b-b88064ba5e4d.png)
   ![image](https://user-images.githubusercontent.com/68670850/95517756-1c98ba80-0a1e-11eb-9d49-75ca8c326752.png)
 
+**Seasonality**
+<br />
+  ![image](https://user-images.githubusercontent.com/68670850/95688987-6d045800-0c6a-11eb-97fa-53d6d68d4736.png)
 
 
 
