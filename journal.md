@@ -66,10 +66,17 @@
   ![image](https://user-images.githubusercontent.com/68670850/95517466-8bc1df00-0a1d-11eb-8166-884165fb3b00.png)
   ![image](https://user-images.githubusercontent.com/68670850/95517637-e0655a00-0a1d-11eb-8a8b-b88064ba5e4d.png)
   ![image](https://user-images.githubusercontent.com/68670850/95517756-1c98ba80-0a1e-11eb-9d49-75ca8c326752.png)
+  
+  only discounts throughout the year
+  ![image](https://user-images.githubusercontent.com/68670850/96190813-51b58780-0f9f-11eb-8eab-6ccd8b72f099.png)
+
 
 **Seasonality**
 <br />
   ![image](https://user-images.githubusercontent.com/68670850/95688987-6d045800-0c6a-11eb-97fa-53d6d68d4736.png)
+  
+  only discount throughout year
+  ![image](https://user-images.githubusercontent.com/68670850/96191006-b375f180-0f9f-11eb-9de8-6d8719484cd4.png)
 
 
 
