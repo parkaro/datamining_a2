@@ -13,6 +13,9 @@
 * Once you click apply, you can see the changes
   ![image](https://user-images.githubusercontent.com/68670850/95125705-d93a1400-07b1-11eb-9ce9-290f76a32760.png)
 
+* Normalizing <br />
+  ![image](https://user-images.githubusercontent.com/68670850/96353860-71c68180-112c-11eb-8ca6-a309c1eac4d8.png)
+
 
 <h1>Clustering</h1>
 
