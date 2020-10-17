@@ -16,7 +16,7 @@
 
 <h1>Clustering</h1>
 
-**K-Means Clustering**
+**1. K-Means Clustering**
 * We can do to see some hidden patterns and relations in data
 * First we just ignored a one column (OrderID) and the rest of the columns were used in clustering. The number of clusters was five
   ![image](https://user-images.githubusercontent.com/68670850/95247428-55942c00-0872-11eb-8f64-2ba5765158b9.png)
@@ -34,7 +34,7 @@
 
 * From this we can have another column or modified the IsDicount (bool) column to classes with values as discount_with_profit, discount_with_loss and no_discount 
 
-**Filtered Clustering**
+**2. Filtered Clustering**
 * We repeat the same process of what we follow in K-means Clustering
 
 * We also check see the pattern between segment and Discount
@@ -44,7 +44,7 @@
 
 <h1>Association</h1>
 
-**Apriori**
+**3. Apriori**
 * For Association, we need to convert each column from Numeric to Nominal <br />
   ![image](https://user-images.githubusercontent.com/68670850/95427123-8c1d9400-09a3-11eb-948d-c841599551b4.png)
 
@@ -58,7 +58,7 @@
 
 <h1>Time Series Analysis</h1>
 
-**Trends**
+**4. Trends**
 <br />
   ![image](https://user-images.githubusercontent.com/68670850/95517436-7ba9ff80-0a1d-11eb-91f8-b5fedf1ba12a.png)
  
@@ -71,7 +71,7 @@
   ![image](https://user-images.githubusercontent.com/68670850/96190813-51b58780-0f9f-11eb-8eab-6ccd8b72f099.png)
 
 
-**Seasonality**
+**5. Seasonality**
 <br />
   ![image](https://user-images.githubusercontent.com/68670850/95688987-6d045800-0c6a-11eb-97fa-53d6d68d4736.png)
   
