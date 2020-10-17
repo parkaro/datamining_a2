@@ -82,9 +82,19 @@
   ![image](https://user-images.githubusercontent.com/68670850/96191006-b375f180-0f9f-11eb-9de8-6d8719484cd4.png)
 
 **7. Naive Bayes**
+<br />
   Calculating discounts
   ![image](https://user-images.githubusercontent.com/68670850/96353618-4478d400-112a-11eb-92e5-74949cf627bb.png)
+ 
+  Predicting the discount loss/profit
+  ![image](https://user-images.githubusercontent.com/68670850/96353995-d9c99780-112d-11eb-9524-529337676ab5.png)
+
 
 **8. Bayes Net**
+<br />
+  Calculating discounts
   ![image](https://user-images.githubusercontent.com/68670850/96353755-87877700-112b-11eb-9d19-7a69efa892f4.png)
+  
+  Predicting the discount loss/profit
+  ![image](https://user-images.githubusercontent.com/68670850/96354022-2f9e3f80-112e-11eb-9741-b7e0716f1ce7.png)
 
