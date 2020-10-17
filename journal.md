@@ -78,7 +78,7 @@
 <br />
   ![image](https://user-images.githubusercontent.com/68670850/95688987-6d045800-0c6a-11eb-97fa-53d6d68d4736.png)
   
-  only discount throughout year
+  only discount throughout year<br />
   ![image](https://user-images.githubusercontent.com/68670850/96191006-b375f180-0f9f-11eb-9de8-6d8719484cd4.png)
 
 **7. Naive Bayes**
