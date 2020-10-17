@@ -1,6 +1,6 @@
 <h1>Exploratory Data Analysis</h1>
 
-**Data Transformation**
+**1. Data Transformation**
 * Data is all clean, we didn't find any missig values or ambiguity in data
 * There is only one country in the dataset. So dropping the country column along with RowID
 * Adding new Column which will be treated as class 
@@ -16,7 +16,7 @@
 
 <h1>Clustering</h1>
 
-**1. K-Means Clustering**
+**2. K-Means Clustering**
 * We can do to see some hidden patterns and relations in data
 * First we just ignored a one column (OrderID) and the rest of the columns were used in clustering. The number of clusters was five
   ![image](https://user-images.githubusercontent.com/68670850/95247428-55942c00-0872-11eb-8f64-2ba5765158b9.png)
@@ -34,7 +34,7 @@
 
 * From this we can have another column or modified the IsDicount (bool) column to classes with values as discount_with_profit, discount_with_loss and no_discount 
 
-**2. Filtered Clustering**
+**3. Filtered Clustering**
 * We repeat the same process of what we follow in K-means Clustering
 
 * We also check see the pattern between segment and Discount
@@ -44,7 +44,7 @@
 
 <h1>Association</h1>
 
-**3. Apriori**
+**4. Apriori**
 * For Association, we need to convert each column from Numeric to Nominal <br />
   ![image](https://user-images.githubusercontent.com/68670850/95427123-8c1d9400-09a3-11eb-948d-c841599551b4.png)
 
@@ -58,7 +58,7 @@
 
 <h1>Time Series Analysis</h1>
 
-**4. Trends**
+**5. Trends**
 <br />
   ![image](https://user-images.githubusercontent.com/68670850/95517436-7ba9ff80-0a1d-11eb-91f8-b5fedf1ba12a.png)
  
@@ -71,12 +71,17 @@
   ![image](https://user-images.githubusercontent.com/68670850/96190813-51b58780-0f9f-11eb-8eab-6ccd8b72f099.png)
 
 
-**5. Seasonality**
+**6. Seasonality**
 <br />
   ![image](https://user-images.githubusercontent.com/68670850/95688987-6d045800-0c6a-11eb-97fa-53d6d68d4736.png)
   
   only discount throughout year
   ![image](https://user-images.githubusercontent.com/68670850/96191006-b375f180-0f9f-11eb-9de8-6d8719484cd4.png)
 
+**7. Naive Bayes**
+  Calculating discounts
+  ![image](https://user-images.githubusercontent.com/68670850/96353618-4478d400-112a-11eb-92e5-74949cf627bb.png)
 
+**8. Bayes Net**
+  ![image](https://user-images.githubusercontent.com/68670850/96353755-87877700-112b-11eb-9d19-7a69efa892f4.png)
 
